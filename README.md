@@ -1,4 +1,7 @@
-# Python Implmentation for Scalable Sampling for Nonsymmetric Determinantl Point Processes
+# Scalable Sampling for Nonsymmetric Determinantl Point Processes
+
+Python Implmentation for Scalable Sampling for Nonsymmetric Determinantl Point Processes
+
 
 # Organization
 - The code files are organized for (1) sampling nonymmetric DPPs (NDPPs) and (2) learning with orthogonality constraints.
