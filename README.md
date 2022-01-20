@@ -7,7 +7,7 @@ Python Implmentation for Scalable Sampling for Nonsymmetric Determinantl Point P
 
 ## Usage
 
-### Experiments for learning orthonal NDPPs:
+### Experiments for learning orthogonal NDPPs:
 
 - First, download the datasets 
     ```
