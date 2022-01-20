@@ -3,13 +3,13 @@
 Python Implmentation for Scalable Sampling for Nonsymmetric Determinantl Point Processes
 
 
-# Organization
+## Organization
 - The code files are organized for (1) sampling nonymmetric DPPs (NDPPs) and (2) learning with orthogonality constraints.
 - The code is based on https://github.com/cgartrel/nonsymmetric-DPP-learning/ (Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes, ICLR 2021)
 
-# Usage
+## Usage
 
-## Experiments for learning orthonal NDPPs:
+### Experiments for learning orthonal NDPPs:
 
 - First, download the datasets 
     ```
@@ -22,7 +22,7 @@ Python Implmentation for Scalable Sampling for Nonsymmetric Determinantl Point P
     bash script_ondpp.sh
     ```
 
-## Experiments for scalable sampling from NDPPs:
+### Experiments for scalable sampling from NDPPs:
 
 - To run synthetic dataset, 
     ```
